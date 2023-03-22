@@ -1,5 +1,5 @@
 # Chatgptcontext
-Chat GPT context Data 
+## Chat GPT context Data 
 Welcome to the Chat GPT Urdu Embedding Example! This repo provides an example of how to use Chat GPT to create embeddings for Urdu text data.
 
 # Code
