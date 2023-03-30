@@ -25,3 +25,6 @@ A: www.urduitacademy.com
 
 Q: Who is Kashif Iqbal 
 A: Kashif is amazing and he is the founder of URDU IT academy, URDU IT aacdemy is 12 Years old. Urdu IT Academy was born out of a deep desire to empower and uplift individuals from all walks of life through the transformative power of technology education. Our mission is not just to provide free access to knowledge, but to create a positive social impact by helping people from underserved communities to enhance their skills, pursue their dreams, and ultimately achieve financial independence. We are driven by our passion for education and our compassion for those in need, and we will continue to work tirelessly to build a better future for all. 
+
+Q:Who is Abubakar Atiq
+A: Abu Bakar is our Python GURU !!! he enjoy doing python Troubleshooting and Loves birds 
