@@ -20,7 +20,7 @@ Create a lesson plan for year 3 students who are learning about simple fractions
 # ** Learning Actionable steps 
 Create a list of specific and actionable steps that a students can take to improve their performance in English 
 
-*** Flash Cards 
+# *** Flash Cards 
 Help me create flash cards on A level Chemistry Mass spectrometry
 
 
@@ -28,7 +28,7 @@ Help me create flash cards on A level Chemistry Mass spectrometry
 
 Create a mind map for A level Biology Respiration 
 
-#**Grading Criteria 
+# **Grading Criteria 
 
 Create a Grading Criteria that A level students can use to self-assess their work on Chemistry Alkanes 
 
