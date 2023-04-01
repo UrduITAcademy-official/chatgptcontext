@@ -35,10 +35,10 @@ Create a Grading Criteria that A level student can use to self assess their work
 # ** Assessment Method 
 Generate a list of 3 alternative assessment method that could be used to assess students understanding of IP addressing 
 
-#**Survey questions 
+# **Survey questions 
 
 Produce a survey questions to gather students feedback in Java programming class at College level 
 
-#**Formative assessment 
+# **Formative assessment 
 
 Generate a formative assessment activity for a college level Computer science class on Mobile application.
